@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1782065066483,
+    "category": "food",
+    "price": 50,
+    "createdAt": "2026-06-21"
+  },
+  {
+    "id": 1782065084262,
+    "category": "food",
+    "price": 50,
+    "createdAt": "2026-06-21"
+  },
+  {
+    "id": 1782066974013,
+    "category": "food",
+    "price": 125,
+    "createdAt": "2026-06-21"
+  }
+]
